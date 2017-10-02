@@ -1,0 +1,12 @@
+Exercise: CSS Colors & Backgrounds
+15 JUNE 2017 by Jason Brewer
+In this exercise you are going to use different types of selectors to style the elements.
+
+Download the basic HTML5 template if you'd like. Or you can simply create your own template and add the elements listed below.
+
+Link the CSS file into your HTML.
+Grab the <body> element and add a background color using a HEX code.
+Grab the <h1> element and center the text, make the text RED and add a text shadow.
+Grab the <p> tag and color the text using a color name.
+Grab the <h2> tag and add a class to it. Using the class, add a text color to the <h2>.
+Add an id to the <h3>. Using the id give it a text color, background color and border.
